@@ -1,5 +1,8 @@
 # BC (BESTCHANGE)
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/NovikovRoman/bc)](https://goreportcard.com/report/github.com/NovikovRoman/bc)
+[![Go](https://github.com/NovikovRoman/bc/actions/workflows/go.yml/badge.svg)](https://github.com/NovikovRoman/bc/actions/workflows/go.yml)
+
 > Библиотека для работы с данными версии 2.03 bestchange.ru
 
 - [Использование](#использование)
